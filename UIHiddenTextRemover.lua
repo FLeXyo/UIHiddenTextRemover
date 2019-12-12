@@ -1,7 +1,7 @@
 local origActionStatus_DisplayMessage = ActionStatus_DisplayMessage;
 
 ActionStatus_DisplayMessage = function(text)
-    if text == string.format(UI_HIDDEN, GetBindingKeyForAction("TOGGLEUI")) then
+    if text == format(UI_HIDDEN, GetBindingText(GetBindingKey("TOGGLEUI"))) then
         return
     else
         origActionStatus_DisplayMessage(text);
