@@ -1,4 +1,4 @@
-## Interface: 11302
+## Interface: 11302, 20505
 
 ## Title: UI Hidden Text Remover
 
