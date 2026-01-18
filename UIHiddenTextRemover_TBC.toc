@@ -1,0 +1,10 @@
+## Interface: 20505
+
+## Title: UI Hidden Text Remover
+
+## Notes: Removes the text that shows when you hide your UI.
+
+## Version: 1.0
+## Author: FLeX
+
+UIHiddenTextRemover.lua
